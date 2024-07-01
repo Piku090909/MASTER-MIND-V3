@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: alexpiku
+    name: MASTER-MIND-V3
     env: node
     branch: main
     repo: https://github.com/Master-hacker-india/MASTER-MIND-V3
